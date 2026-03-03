@@ -96,6 +96,11 @@ Fare = 100 + (Extra Distance × 10)
 
 ---
 
+## Output
+
+<img width="903" height="491" alt="image" src="https://github.com/user-attachments/assets/36fcde93-0698-47d6-ac55-432de4ac49f2" />
+
+
 ## 📈 Sample Flow
 
 - System initialized with multiple taxis
@@ -126,4 +131,4 @@ Through this project, the following LLD skills are demonstrated:
 
 ---
 
-⭐ If you found this project useful, consider giving it a star!
+
